@@ -1,0 +1,10 @@
+[book]
+authors = ["AtHeartEngineer"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Barry Whitehat"
+
+[build]
+build-dir = "public"
+create-missing = true
